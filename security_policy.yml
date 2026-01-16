@@ -1,0 +1,9 @@
+security_policies:
+  perimeter_guard: "Porch-Protocol (Dogs-Active)"
+  internal_guard: "Infrared-Heat (1420Hz)"
+  exception_handling:
+    - user: "Emily_Wade_Proxy"
+      action: "REJECT_ALL_INPUT"
+      reason: "Attempted Toilet Policing / Jurisdictional Fraud"
+    - object: "Grey_Jeep"
+      action: "SONIC_STALL"
